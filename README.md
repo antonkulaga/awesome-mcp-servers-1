@@ -304,6 +304,12 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://cdn.simpleicons.org/arxiv/B31B1B" height="14"/> [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) - Search ArXiv research papers
 - <img src="https://api.iconify.design/mdi:dna.svg?color=%23E34234" height="14"/> [Ancestry](https://github.com/reeeeemo/ancestry-mcp) - Read .ged files and genetic data
+- <img src="https://api.iconify.design/healthicons:biochemistry-laboratory.svg?color=%23E34234" height="14"/> [BioMCP](https://github.com/genomoncology/biomcp) - Access PubMed, ClinicalTrials.gov, and MyVariant.info. 🐍 ☁️
+- <img src="https://api.iconify.design/mdi:bacteria-outline.svg?color=%23E34234" height="14"/> [BioThings](https://github.com/longevity-genie/biothings-mcp) - Interact with genes, genetic variants, drugs, and taxonomic information. 🐍 🏠 ☁️
+- <img src="https://api.iconify.design/tabler:dna-2.svg?color=%23E34234" height="14"/> [gget](https://github.com/longevity-genie/gget-mcp) - Powerful bioinformatics toolkit for genomics queries and analysis. 🐍 🏠 ☁️
+- <img src="https://api.iconify.design/game-icons:dna1.svg?color=%23E34234" height="14"/> [OpenGenes](https://github.com/longevity-genie/opengenes-mcp) - Queryable database for aging and longevity research. 🎖️ 🐍 🏠 ☁️
+- <img src="https://api.iconify.design/healthicons:pharmacy.svg?color=%23E34234" height="14"/> [Pharmacology](https://github.com/antonkulaga/pharmacology-mcp) - Access the Guide to Pharmacology database for drug, target, and ligand information. 🐍 🏠 ☁️
+- <img src="https://api.iconify.design/mdi:synergy.svg?color=%23E34234" height="14"/> [SynergyAge](https://github.com/longevity-genie/synergy-age-mcp) - Database of synergistic and antagonistic genetic interactions in longevity. 🎖️ 🐍 🏠 ☁️
 
 <br />
 
